@@ -1,3 +1,6 @@
+***SWITCH TO **GAME** BRANCH TO SEE CODE ***
+
+
 A multiplayer game played betweeen two players.
 Roll a dice to add the dice face to your current score.
 Accumulate as high score as you can by rolling continously.
